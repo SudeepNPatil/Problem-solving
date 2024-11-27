@@ -1,4 +1,4 @@
-function myfun(arr,t)
+function find_index(arr,t)
 {
     
     for(let i=0;i<=arr.length;i++)
@@ -12,5 +12,4 @@ function myfun(arr,t)
     return -1;
 }
 let arr=[5,8,12,16];
-//myfun(arr,3);
-console.log(myfun(arr,10));
+console.log(find_index(arr,10));
