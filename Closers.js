@@ -1,6 +1,6 @@
 let add=0;
 function sum(a){
-     add = add +a ;
+    add = add +a ;
     return (b) => {
         add = add+b;
 
