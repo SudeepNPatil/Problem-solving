@@ -11,7 +11,7 @@
 
             if(array[mid] === key){
 
-                return mid;
+                return mid;A
             }
             else if(array[mid] < key ){
 
