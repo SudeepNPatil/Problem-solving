@@ -17,4 +17,4 @@ function patternPrint(str) {
   return row;
 }
 
-console.log(patternPrint('welcometoDSAlearning'));
+console.log(patternPrint('welcometodsalearnings'));
