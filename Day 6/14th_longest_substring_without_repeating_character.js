@@ -16,4 +16,4 @@ function longestsubstring(s) {
   return maxLen;
 }
 
-console.log(longestsubstring('aaaaaaaaaaa'));
+console.log(longestsubstring('abcabcbb'));
