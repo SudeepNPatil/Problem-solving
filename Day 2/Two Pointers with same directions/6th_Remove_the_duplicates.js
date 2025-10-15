@@ -50,7 +50,7 @@ function removeduplicatesfromunsorted(nums) {
     }
   }
 
-  return result;
+  return [...seen];
 }
 
 console.log(removeduplicatesfromunsorted([2, 4, 1, 8, 10, 4, 1, 3, 5, 8, 6]));
